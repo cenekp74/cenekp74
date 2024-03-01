@@ -2,5 +2,5 @@ I am a young developer from Czech Republic. I can code in Python and the html st
 
 
 ### Contact me
-discord: cenekp
-email: potuznikcenek@gmail.com
+- discord: cenekp
+- email: potuznikcenek@gmail.com
