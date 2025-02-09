@@ -5,4 +5,4 @@ You can hire me at peopleperhour.com
 
 ### Contact me
 - discord: cenekp
-- email: potuznikcenek@gmail.com
+- email: email@potuznik.dev
